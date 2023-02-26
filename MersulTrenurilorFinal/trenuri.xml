@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trenuri>
+  <tren numar="1">
+    <oras_plecare>Iasi</oras_plecare>
+    <oras_sosire>Bucuresti</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>12:30</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>16:50</ora_sosire>
+    <intarziere_plecare>10</intarziere_plecare>
+    <intarziere_sosire>20</intarziere_sosire>
+    <mai_devreme>20</mai_devreme>
+  </tren>
+  <tren numar="2">
+    <oras_plecare>Iasi</oras_plecare>
+    <oras_sosire>Constanta</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>12:45</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>21:45</ora_sosire>
+    <intarziere_plecare>5</intarziere_plecare>
+    <intarziere_sosire>10</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="3">
+    <oras_plecare>Vaslui</oras_plecare>
+    <oras_sosire>Suceava</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>13:01</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>16:45</ora_sosire>
+    <intarziere_plecare>5</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>10</mai_devreme>
+  </tren>
+  <tren numar="4">
+    <oras_plecare>Vaslui</oras_plecare>
+    <oras_sosire>Bacau</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>08:20</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>12:30</ora_sosire>
+    <intarziere_plecare>120</intarziere_plecare>
+    <intarziere_sosire>20</intarziere_sosire>
+    <mai_devreme>2</mai_devreme>
+  </tren>
+  <tren numar="5">
+    <oras_plecare>Iasi</oras_plecare>
+    <oras_sosire>Braila</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>07:30</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>12:45</ora_sosire>
+    <intarziere_plecare>10</intarziere_plecare>
+    <intarziere_sosire>5</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="6">
+    <oras_plecare>Vaslui</oras_plecare>
+    <oras_sosire>Galati</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>15:21</ora_plecare>
+    <data_sosire>11.01.2023</data_sosire>
+    <ora_sosire>12:30</ora_sosire>
+    <intarziere_plecare>25</intarziere_plecare>
+    <intarziere_sosire>5</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="7">
+    <oras_plecare>Iasi</oras_plecare>
+    <oras_sosire>Suceava</oras_sosire>
+    <data_plecare>09.01.2023</data_plecare>
+    <ora_plecare>12:30</ora_plecare>
+    <data_sosire>09.01.2023</data_sosire>
+    <ora_sosire>16:15</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="8">
+    <oras_plecare>Bucuresti</oras_plecare>
+    <oras_sosire>Suceava</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>21:50</ora_plecare>
+    <data_sosire>11.01.2023</data_sosire>
+    <ora_sosire>05:10</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="9">
+    <oras_plecare>Brasov</oras_plecare>
+    <oras_sosire>Sibiu</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>17:35</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>21:25</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="10">
+    <oras_plecare>Iasi</oras_plecare>
+    <oras_sosire>Oradea</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>12:40</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>22:20</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="11">
+    <oras_plecare>Timisoara</oras_plecare>
+    <oras_sosire>Cluj-Napoca</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>05:30</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>16:15</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="12">
+    <oras_plecare>Brasov</oras_plecare>
+    <oras_sosire>Galati</oras_sosire>
+    <data_plecare>10.01.2023</data_plecare>
+    <ora_plecare>07:00</ora_plecare>
+    <data_sosire>10.01.2023</data_sosire>
+    <ora_sosire>11:05</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="13">
+    <oras_plecare>Bucuresti</oras_plecare>
+    <oras_sosire>Craiova</oras_sosire>
+    <data_plecare>11.01.2023</data_plecare>
+    <ora_plecare>08:00</ora_plecare>
+    <data_sosire>09.01.2023</data_sosire>
+    <ora_sosire>11:15</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+  <tren numar="14">
+    <oras_plecare>Oradea</oras_plecare>
+    <oras_sosire>Bucuresti</oras_sosire>
+    <data_plecare>11.01.2023</data_plecare>
+    <ora_plecare>09:00</ora_plecare>
+    <data_sosire>09.01.2023</data_sosire>
+    <ora_sosire>14:00</ora_sosire>
+    <intarziere_plecare>0</intarziere_plecare>
+    <intarziere_sosire>0</intarziere_sosire>
+    <mai_devreme>0</mai_devreme>
+  </tren>
+</trenuri>
