@@ -1,13 +1,13 @@
 #MersulTrenurilor
 
 ## Introduction
--This project involves implementing a multi-user client that sends commands to a server (signal - receive), which then executes these commands and returns a character string based on the request made by the client.
--The "Train Schedule" application is a server/client type application that provides or updates real-time information from all registered clients about train schedules. Registered users have access to two types of commands:
--Requests for train schedules in the following formats:
-  -Trains running that day.
-  -Trains departing in the next hour (according to schedule, delayed by x minutes).
-  -Based on arrivals in the next hour (according to schedule, delayed by x minutes, x minutes early).
-  -Commands to send information to the server about possible delays or if the train arrives/departs early.
+- This project involves implementing a multi-user client that sends commands to a server (signal - receive), which then executes these commands and returns a character string based on the request made by the client.
+- The "Train Schedule" application is a server/client type application that provides or updates real-time information from all registered clients about train schedules. Registered users have access to two types of commands:
+- Requests for train schedules in the following formats:
+  - Trains running that day.
+  - Trains departing in the next hour (according to schedule, delayed by x minutes).
+  - Based on arrivals in the next hour (according to schedule, delayed by x minutes, x minutes early).
+  - Commands to send information to the server about possible delays or if the train arrives/departs early.
 ## Technologies Used
 -The project uses a concurrent TCP server. TCP is a protocol used in applications that require confirmation of data receipt, keeping the order and integrity of the data.
 -Concurrency is ensured by using threads, as this is a quick and efficient way to divide processes for clients. Information about the trains is stored in individual XML files for each train route, with tags such as: <Id> for the train id, <Departure> for the departure city, <Arrival> for the arrival city, <Departure_Date> for the train departure date, <Delay> to inform users that train x has a delay of y minutes, etc.
