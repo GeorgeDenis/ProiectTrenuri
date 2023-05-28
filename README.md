@@ -19,12 +19,15 @@
 -For reading and modifying the XML files, the application uses the libxml/parser.h and limxml/tree.h libraries.
 -There are various server functions to handle client requests, such as getInfoToday, getDepartures, getArrivals, setDepartureDelay, setArrivalDelay, setEarlyDeparture, setEarlyArrival, getDepartureCity, getArrivalCity, etc.
 -These functions ensure that the application can handle any request related to train schedules, from getting current information about train departures and arrivals to updating information about delays and early arrivals or departures.
+  
 ### Prerequisites
 Ensure you have the following installed on your local development machine:
--C++ compiler
--SQLite3 Library
--Libxml2 Library
--POSIX Threads Library (pthread)
+  
+  -C++ compiler
+  -SQLite3 Library
+  -Libxml2 Library
+  -POSIX Threads Library (pthread)
+  
 ### Installation
   
   1.Clone the repository to your local machine
