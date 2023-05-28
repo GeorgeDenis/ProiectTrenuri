@@ -26,6 +26,7 @@ Ensure you have the following installed on your local development machine:
 -Libxml2 Library
 -POSIX Threads Library (pthread)
 ### Installation
+  
   1.Clone the repository to your local machine
   2.Navigate to the project directory
   3.Build the project using the Makefile provided
