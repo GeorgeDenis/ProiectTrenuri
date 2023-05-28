@@ -23,16 +23,16 @@
 ### Prerequisites
 Ensure you have the following installed on your local development machine:
   
-  -C++ compiler
-  -SQLite3 Library
-  -Libxml2 Library
-  -POSIX Threads Library (pthread)
+  - C++ compiler
+  - SQLite3 Library
+  - Libxml2 Library
+  - POSIX Threads Library (pthread)
   
 ### Installation
   
-  1.Clone the repository to your local machine
-  2.Navigate to the project directory
-  3.Build the project using the Makefile provided
-  4.Run the server program in the background, and then run the client program
+  1. Clone the repository to your local machine
+  2. Navigate to the project directory
+  3. Build the project using the Makefile provided
+  4. Run the server program in the background, and then run the client program
 
 
