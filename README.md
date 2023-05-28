@@ -23,7 +23,7 @@
 ### Prerequisites
 Ensure you have the following installed on your local development machine:
   
-  - C++ compiler
+  - C compiler
   - SQLite3 Library
   - Libxml2 Library
   - POSIX Threads Library (pthread)
