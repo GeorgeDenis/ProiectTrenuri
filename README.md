@@ -1,4 +1,4 @@
-1. Introduction
+##1. Introduction
 This project involves implementing a multi-user client that sends commands to a server (signal - receive), which then executes these commands and returns a character string based on the request made by the client.
 
 The "Train Schedule" application is a server/client type application that provides or updates real-time information from all registered clients about train schedules. Registered users have access to two types of commands:
